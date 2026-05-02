@@ -18,7 +18,7 @@ set -e   # Exit immediately on any error
 
 # ── CONFIG ──────────────────────────────────────────────────
 # TODO: Replace with YOUR public GitHub repository URL before submitting
-REPO_URL="https://github.com/YOUR_USERNAME/gnr_mcq_project.git"
+REPO_URL="https://github.com/Yasasvinaidu/gnr_mcq_project.git"
 REPO_DIR="gnr_mcq_project"
 
 CONDA_ENV_NAME="gnr_project_env"
