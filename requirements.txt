@@ -1,0 +1,21 @@
+# requirements.txt – GNR Project: Deep Learning MCQ Solver
+# Install with: pip install -r requirements.txt
+# (PyTorch must be installed separately with the correct CUDA wheel)
+
+# Core ML
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# HuggingFace
+transformers>=4.45.0
+accelerate>=0.26.0
+bitsandbytes>=0.42.0
+huggingface_hub>=0.20.0
+
+# Qwen2-VL utilities
+qwen-vl-utils>=0.0.8
+
+# Image + data
+Pillow>=10.0.0
+pandas>=2.0.0
